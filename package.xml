@@ -78,8 +78,11 @@
 
     <!--[ Content ]――――――――――――――――――――――――――――――――――――――――――――――――――――――――――-->
 
+
     <content>
-        <other/>
+        <machine>
+            <subdirectory>Resources/Machines</subdirectory>
+        </machine>
     </content>
 
 </package>
